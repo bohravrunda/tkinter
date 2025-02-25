@@ -1,0 +1,11 @@
+Beauty Essentials
+
+Customer: Jane Doe
+Date: 2024-10-25 13:37:55
+
+Items Purchased:
+Lipstick (x2): ₹3000.00
+Foundation (x1): ₹3000.00
+Mascara (x3): ₹3000.00
+
+Total: ₹9000.00
